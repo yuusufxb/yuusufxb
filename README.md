@@ -87,9 +87,13 @@ public class YoussefMouha {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuusufxb&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
