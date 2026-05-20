@@ -98,18 +98,6 @@ public class YoussefMouha {
 </div>
 
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yuusufxb/yuusufxb/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-
----
 
 # 🌐 Connect With Me
 
