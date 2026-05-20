@@ -1,17 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=200&section=header&text=Youssef%20Mouha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%26%20Spring%20Boot&descAlignY=55"/>
+# 👋 Youssef Mouha
 
+### Full Stack Developer • Java & Spring Boot
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React;Backend+%26+Frontend+Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Developer;Building+Scalable+Web+Applications;React+%7C+Vue+%7C+Node.js" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yuusufxb&label=Profile+Views&color=2563eb&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yuusufxb&label=Profile+Views&color=2563eb&style=for-the-badge" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+
 
 ---
 
@@ -81,18 +84,15 @@ public class YoussefMouha {
 
 # 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuusufxb&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
+
 
 ---
 
