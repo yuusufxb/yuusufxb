@@ -104,9 +104,10 @@ public class YoussefMouha {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/yuusufxb/yuusufxb/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
 
 ---
 
