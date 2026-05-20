@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Youssef%20Mouha&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&fontSize=45&desc=Full%20Stack%20Developer%20•%20Java%20%26%20Spring%20Boot&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=200&section=header&text=Youssef%20Mouha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%26%20Spring%20Boot&descAlignY=55"/>
+
 
 <br/>
 
@@ -82,7 +83,8 @@ public class YoussefMouha {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
@@ -98,7 +100,7 @@ public class YoussefMouha {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yuusufxb/yuusufxb/output/github-contribution-grid-snake-dark.svg" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
