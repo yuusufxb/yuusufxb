@@ -1,150 +1,69 @@
 <div align="center">
 YOUSSEF MOUHA
-Full-Stack Developer
+FULL-STACK DEVELOPER
+JAVA · SPRING BOOT · REACT · JAVASCRIPT
+<br>
 
-Java · Spring Boot · React · JavaScript
+I build full-stack applications and I'm working toward designing the systems behind them.
 
-</div>
+<br> <a href="https://github.com/yuusufxb"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/youssef-mouha"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:yousefmouha98@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div> <br>
+<div align="center">
 YoussefMouha.java
-package developer.profile;
-
-import org.springframework.stereotype.Component;
-
+</div>
 @Component
 public class YoussefMouha {
 
-    private final String role = "Full-Stack Developer";
+    String role = "Full-Stack Developer";
 
-    private final String[] backend = {
-        "Java",
-        "Spring Boot",
-        "REST APIs"
-    };
+    String backend = "Java + Spring Boot";
 
-    private final String[] frontend = {
-        "JavaScript",
-        "React"
-    };
+    String frontend = "React + JavaScript";
 
-    private final String[] databases = {
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-    };
+    String focus = "APIs + Databases + Architecture";
 
-    private final String currentProject =
-        "Full-Stack Application";
-
-    private final String goal =
-        "Senior Software Developer";
-
-    public String[] interests() {
-        return new String[] {
-            "Software Architecture",
-            "System Design",
-            "Complex Applications",
-            "Backend Engineering"
-        };
-    }
+    String goal = "Senior Software Developer";
 }
 
-Application.java
-@SpringBootApplication
-public class DeveloperApplication {
-
-    public static void main(String[] args) {
-
-        SpringApplication.run(
-            DeveloperApplication.class,
-            args
-        );
-    }
-}
-
-✓ Application started successfully
-✓ Backend initialized
-✓ Frontend connected
-✓ Database configured
-✓ Developer is still learning...
-
-@CurrentlyBuilding
-@Service
-public class CurrentWork {
-
-    private final String stack =
-        "Spring Boot + React + REST API + Database";
-
-    private final String status =
-        "IN DEVELOPMENT";
-
-    public void build() {
-        design();
-        implement();
-        test();
-        improve();
-    }
-}
-
-@EngineeringInterests
-public enum EngineeringInterest {
-
-    SOFTWARE_ARCHITECTURE,
-    SYSTEM_DESIGN,
-    REST_APIS,
-    DATABASES,
-    BACKEND_ENGINEERING,
-    COMPLEX_APPLICATIONS
-}
-
-@TechStack
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,postgres,mysql,mongodb,docker,git,github,postman,idea,vscode" /> </div>
-@Learning
-public class Learning {
-
-    String[] topics = {
-        "Advanced Spring Boot",
-        "Software Architecture",
-        "System Design",
-        "Microservices",
-        "Cloud Technologies"
-    };
-}
-
-@DeveloperMindset
-public interface DeveloperMindset {
-
-    String[] principles = {
-        "Understand",
-        "Build",
-        "Improve",
-        "Repeat"
-    };
-}
-
-
-I enjoy understanding how systems work and gradually taking on more complex problems.
-
-My goal is to grow from building applications to designing the systems behind them.
-
-@BeyondCode
-@Lifestyle
-public class Youssef {
-
-    String outsideTheCode = "Sports";
-
-    String principle =
-        "Discipline + Consistency = Progress";
-}
-
+<br> <div align="center">
+⚡ MY STACK
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,postgres,mysql,mongodb,docker,git,github,postman,idea,vscode" /> </div> <br>
 <div align="center">
-Connect.with(Youssef)
+🚀 CURRENTLY BUILDING
+A Full-Stack Application
+
+Spring Boot   →   REST API   →   React   →   Database
+
+<br>
+
+IN DEVELOPMENT
+
+</div> <br>
+<div align="center">
+🧠 @FOCUS
+SOFTWARE ARCHITECTURE
+SYSTEM DESIGN
+REST APIs
+DATABASES
+COMPLEX APPLICATIONS
+</div> <br>
+<div align="center">
+📈 GITHUB
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufxb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"> </div> <br>
+<div align="center">
+🏃 BEYOND CODE
+
+Sports · Discipline · Consistency
+
+<br>
+
+Keep learning. Build difficult things. Get better every day.
+
+<br>
 
 <a href="https://github.com/yuusufxb">GitHub</a>
-  ·  
+  ·  
 <a href="https://www.linkedin.com/in/youssef-mouha">LinkedIn</a>
-  ·  
+  ·  
 <a href="mailto:yousefmouha98@gmail.com">Email</a>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yuusufxb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div>
+</div>
